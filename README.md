@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Stephanie!
+### 🌱 I’m currently learning Python and C++
+### 😄 Pronouns: she/her
+### 📫 How to reach me: dwa102@sfu.ca
 <!--
 **steph-wong-15/steph-wong-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
