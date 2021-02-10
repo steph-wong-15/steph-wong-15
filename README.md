@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Stephanie!
-### 🌱 I’m currently learning Python and C++
+### 🌱 I’m currently learning Java
 ### 😄 Pronouns: she/her
 ### 📫 How to reach me: dwa102@sfu.ca
 <!--
