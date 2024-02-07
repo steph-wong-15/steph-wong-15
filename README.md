@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Stephanie!
+### Hi there, I'm Stephanie!
 ### 🌱 I’m currently learning C#
 ### 🔭 Pronouns: she/her
 ### 📫 How to reach me: dwa102@sfu.ca
